@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
   Simple script that uses twitter api to download all tweets of a particular twitter
-  account with timestamps
+  account with timestamps. Useful for information gathering 
 """
 
 import thread

@@ -12,10 +12,11 @@ import tweepy
 from tweepy import *
 from tweepy.streaming import *
 
-CONSUMER_KEY = ''
-CONSUMER_SECRET = ''
-ACCESS_KEY = ''
-ACCESS_SECRET = ''
+# replace value with your own creds
+CONSUMER_KEY = 'value'
+CONSUMER_SECRET = 'value'
+ACCESS_KEY = 'value'
+ACCESS_SECRET = 'value'
 
 auth = OAuthHandler(CONSUMER_KEY,CONSUMER_SECRET)
 api = tweepy.API(auth)

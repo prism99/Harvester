@@ -12,7 +12,7 @@ import tweepy
 from tweepy import *
 from tweepy.streaming import *
 
-# replace value with your own creds
+# replace value with your own creds - dev.twitter.com
 CONSUMER_KEY = 'value'
 CONSUMER_SECRET = 'value'
 ACCESS_KEY = 'value'
